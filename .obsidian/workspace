@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "1c3d01989c3c5a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "3302f61dfde616fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Skin in the game - Chapter 1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c0538b599ae3a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc3755fcc814ee6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ca40fef15532dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fed6e21ef0ed064",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Memória",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "423cf08f11690f01",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5121879577637
+  },
+  "right": {
+    "id": "d03bd18ea89a4bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e22723390bcf839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e71609add92929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skin in the game - Chapter 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a745b1cb5f0bee86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skin in the game - Chapter 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "831a1d00b71deffd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d66a822a6ded476",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skin in the game - Chapter 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 418.35186767578125
+  },
+  "active": "3302f61dfde616fb",
+  "lastOpenFiles": [
+    "Skin in the game - Chapter 1.md",
+    "Skin in the game.md",
+    "Markdown rules.md",
+    "Templates/Template1.md",
+    "github.com/EduardoMaciel324.md",
+    "Eduardo.md",
+    "modo focado.md",
+    "Einstellung.md",
+    "Sem título 2.md",
+    "{{time}}.md"
+  ]
+}

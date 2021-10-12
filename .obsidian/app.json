@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTimeReverse",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  }
+}

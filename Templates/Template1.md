@@ -1,0 +1,3 @@
+{{TITLE}}
+{{date}}  {{time}}
+[[Eduardo]]
