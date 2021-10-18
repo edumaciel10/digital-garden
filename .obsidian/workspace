@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3302f61dfde616fb",
+        "id": "b2d6d25dc4a0b332",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skin in the game - Chapter 1.md",
+            "file": "Newton Binomial.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "459bca9586283d36"
+      },
+      {
+        "id": "b58c44ed9e122324",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Newton Binomial.md",
+            "mode": "preview"
+          }
+        },
+        "group": "459bca9586283d36"
       }
     ],
     "direction": "vertical"
@@ -39,9 +52,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Memória",
-                "matchingCase": false,
-                "explainSearch": false,
+                "query": "3",
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skin in the game - Chapter 1.md",
+                "file": "Newton Binomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skin in the game - Chapter 1.md",
+                "file": "Newton Binomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skin in the game - Chapter 1.md"
+                "file": "Newton Binomial.md"
               }
             }
           }
@@ -127,17 +140,17 @@
     "direction": "horizontal",
     "width": 418.35186767578125
   },
-  "active": "3302f61dfde616fb",
+  "active": "b2d6d25dc4a0b332",
   "lastOpenFiles": [
+    "Newton Binomial.md",
+    "Pasted image 20211017230104.png",
+    "Pasted image 20211017230050.png",
+    "Sem título 2.md",
     "Skin in the game - Chapter 1.md",
-    "Burocracia.md",
-    "Poder municipal.md",
+    "Building Blocks.md",
     "Skin in the game.md",
-    "Markdown rules.md",
-    "Templates/Template1.md",
-    "github.com/EduardoMaciel324.md",
-    "Eduardo.md",
-    "modo focado.md",
-    "Einstellung.md"
+    "experiência e repetição.md",
+    "Capitulo 4 - Construção de blocos.md",
+    "Burocracia.md"
   ]
 }
