@@ -12,17 +12,17 @@ Por que em revolução dos bixos os porcos impõe seus gostos?
 
 As pessoas devem se expor para as consequências do mundo real, sejam elas boas ou ruins, para poderem ser orientadas pela dor, isto é, [[experiência e repetição]], construir um conhecimento. Da mesma forma que muitos conceitos foram descobertos por "improviso", e não por "raciocínio" como algumas instituições pregam. E isso tem um papel brutal dentro da sociedade, por que muitos docentes tentam explicar que você simplesmente deve entender como X pessoa chegou dessa maneira em Y, mas na verdade essa pessoa só chegou em Y depois de tentar mais de 100 vezes chegar em Y, não foi nem de primeira nem de segunda.
 
-Uma pessoa não pode decidir pela outra. Um povo não pode tomar as decisões por outro povo, os EUA deveria se meter nas coisas da Síria do modo que se meteu, pois essa ação de iguala às liberdade dada aos escravos no Brasil. Você tira a prisão dessas pessoas, mas não constrói um local próspero para elas viverem. Então você tira o ditador, mas não ensina as pessoas a viverem sem ele. Você tira a escravidão dos pretos, mas não ensina a eles como viver sem elas.
+Uma pessoa não pode decidir pela outra. Um povo não pode tomar as decisões por outro povo, os EUA não deveria se meter nas coisas da Síria do modo que se meteu, pois essa ação se iguala a liberdade dada aos escravos no Brasil. Você tira a prisão dessas pessoas, mas não constrói um local próspero para elas viverem. Então você tira o ditador, mas não ensina as pessoas a viverem sem ele. Você tira a escravidão dos pretos, mas não ensina a eles como viver sem ela.
 
 Entender a dimensão de problemas. Você não pode comparar um problema situado em uma região, com um problema situado em outra região em contextos totalmente diferentes. Você não deve comparar a governança de um ditador africano, com a conduta de um primeiro ministro Francês ou Sueco.
 
-Evitar a mudança de sistemas, rodeada de incerteza se as consequência forem desastrosas **dúvida**
+Evitar a mudança de sistemas, rodeada de incerteza se as consequência forem desastrosas, você não quer jogar um jogo consequência é a morte. **dúvida**
 
 Pessoas que nunca tomaram riscos, nunca deveriam ser as tomadoras de decisões, pois nunca souberam lidar com o risco de algo dar errado. Não seja a pessoa que transfere os riscos.
 
-[[Burocracia]] é quando uma pessoa que tem um grande poder concentrada nela, mas que não tem real noção das suas consequências.
+[[Burocracia]] é quando uma pessoa tem um grande poder concentrado nela, mas que não tem real noção das suas consequências.
 
-Portanto uma forma de reduzir a democracia, é reduzir o poder dessa pessoa, como ? Descentralizando o poder dela, e tornando essas novas pessoas que irão surgir [[Poder municipal]] mais próximas de suas consequências.
+Portanto uma forma de reduzir a burocracia, é reduzir o poder dessa pessoa, como ? Descentralizando o poder dela, e tornando essas novas pessoas que irão surgir [[Poder municipal]] mais próximas de suas consequências.
 
 
 
