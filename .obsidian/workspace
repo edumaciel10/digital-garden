@@ -1,31 +1,29 @@
 {
   "main": {
-    "id": "1c3d01989c3c5a07",
+    "id": "518de15ef5f47035",
     "type": "split",
     "children": [
       {
-        "id": "b2d6d25dc4a0b332",
+        "id": "ca389af0834560b8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Newton Binomial.md",
+            "file": "Private notes/Calculo1/P1.md",
             "mode": "source"
           }
-        },
-        "group": "459bca9586283d36"
+        }
       },
       {
-        "id": "b58c44ed9e122324",
+        "id": "6c5902c405572c51",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Newton Binomial.md",
+            "file": "Capítulo 1 - Abra a porta.md",
             "mode": "preview"
           }
-        },
-        "group": "459bca9586283d36"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5121879577637
+    "width": 232
   },
   "right": {
     "id": "d03bd18ea89a4bf0",
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newton Binomial.md",
+                "file": "Private notes/Calculo1/P1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newton Binomial.md",
+                "file": "Private notes/Calculo1/P1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,28 +127,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton Binomial.md"
+                "file": "Private notes/Calculo1/P1.md"
               }
+            }
+          },
+          {
+            "id": "7d8cfb855da6c1c1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 418.35186767578125
   },
-  "active": "b2d6d25dc4a0b332",
+  "active": "ca389af0834560b8",
   "lastOpenFiles": [
-    "Newton Binomial.md",
-    "Pasted image 20211017230104.png",
-    "Pasted image 20211017230050.png",
+    "Private notes/Calculo1/P1.md",
+    "Capítulo 1 - Abra a porta.md",
     "Sem título 2.md",
+    "Markdown rules.md",
+    "Polyfill.md",
+    "Polyfills.md",
+    "transferência.md",
     "Skin in the game - Chapter 1.md",
-    "Building Blocks.md",
-    "Skin in the game.md",
-    "experiência e repetição.md",
-    "Capitulo 4 - Construção de blocos.md",
-    "Burocracia.md"
+    "202110192322.md",
+    "202110192321.md"
   ]
 }
