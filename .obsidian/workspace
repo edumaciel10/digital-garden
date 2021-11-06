@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ca389af0834560b8",
+        "id": "c942c3aa8435f9b7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Private notes/Calculo1/P1.md",
+            "file": "Codemod.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0e4e963de6366cd2"
       },
       {
-        "id": "6c5902c405572c51",
+        "id": "fb43e46bcfd61a24",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Capítulo 1 - Abra a porta.md",
+            "file": "Codemod.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "0e4e963de6366cd2"
       }
     ],
     "direction": "vertical"
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private notes/Calculo1/P1.md",
+                "file": "Codemod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private notes/Calculo1/P1.md",
+                "file": "Codemod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private notes/Calculo1/P1.md"
+                "file": "Codemod.md"
               }
             }
           },
@@ -144,13 +146,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.35186767578125
+    "width": 418.35186767578125,
+    "collapsed": true
   },
-  "active": "ca389af0834560b8",
+  "active": "c942c3aa8435f9b7",
   "lastOpenFiles": [
+    "Codemod.md",
     "Private notes/Calculo1/P1.md",
     "Capítulo 1 - Abra a porta.md",
-    "Sem título 2.md",
     "Markdown rules.md",
     "Polyfill.md",
     "Polyfills.md",
