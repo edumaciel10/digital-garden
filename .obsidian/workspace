@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clusters.md",
+            "file": "Dicas de memória.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "e54d2b4878e4e4ad"
+      },
+      {
+        "id": "8100cd30d9517718",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dicas de memória.md",
+            "mode": "preview"
+          }
+        },
+        "group": "e54d2b4878e4e4ad"
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clusters.md",
+                "file": "Dicas de memória.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clusters.md",
+                "file": "Dicas de memória.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clusters.md"
+                "file": "Dicas de memória.md"
               }
             }
           },
@@ -136,15 +149,15 @@
   },
   "active": "19c27517a21361d9",
   "lastOpenFiles": [
+    "Dicas de memória.md",
+    "Flash Cards.md",
+    "memória de trabalho.md",
+    "Capitulo 4 - Construção de blocos.md",
     "Clusters.md",
     "Pooling.md",
     "Websockets.md",
     "Webhooks.md",
     "Aprendendo a aprender.md",
-    "Markdown rules.md",
-    "Newton Binomial.md",
-    "README.md",
-    "Codemod.md",
-    "Codemod-article.md"
+    "Markdown rules.md"
   ]
 }
