@@ -6,11 +6,11 @@ Aprender a processar ideias visualmente em é uma forma de aprender rapidamente 
 - E conforme o seu estudo sobre o assunto for se aprofundando você pode reformular essa metáfora, ou até mesmo criar outras
 - A ideia é sempre aprender algo novo através de algo simples que você ja conhece
 	- As vezes você foca tanto em algo pequeno, que se esquece do contexto global. [Tweet](https://twitter.com/edumaciel10_/status/1458124475241730056)
-- E as metáforas são simplesmente incríveis, pois faz você criar algo novo a partir de algo pre-existente e faz com que você fixe essa ideia na sua mente, pois você cria novos [[Capitulo 4 - Construção de blocos | Blocos]], pois está conectando novas ideias neurais.
-	-  Tipo a forma com que o benzeno era visualizado por alguns cientistas, ![[Pasted image 20211114192747.png]]
+- E as metáforas são simplesmente incríveis, pois faz você criar algo novo a partir de algo pre-existente e faz com que você fixe essa ideia na sua mente, pois você cria novos [Blocos](https://github.com/edumaciel10/digital-garden/blob/master/Capitulo%204%20-%20Constru%C3%A7%C3%A3o%20de%20blocos.md), pois está conectando novas ideias neurais.
+	-  Tipo a forma com que o benzeno era visualizado por alguns cientistas, ![img](https://github.com/edumaciel10/digital-garden/blob/master/Images/Pasted%20image%2020211114192747.png)
 
 ## Repetição espaçada
-Você compreender como algo funciona não é o suficiente para aprender. Tudo o que você compreendeu vai sair da sua [[memória de trabalho]] se não for revisada, que nada mais é que o processo de [[transferência]].
+Você compreender como algo funciona não é o suficiente para aprender. Tudo o que você compreendeu vai sair da sua [[memória de trabalho]] se não for revisada, que nada mais é que o processo de [transferência](https://github.com/edumaciel10/digital-garden/blob/master/transfer%C3%AAncia.md).
 Para que isso aconteça, a ideia deve ser memorável, e ela deve ser repetida.
 
 Isso para que ela não se perca, porém ideia se perder não é algo ruim, você não quer se lembrar de tudo o que ocorre na sua vida, você quer selecionar daquilo que deseja se lembrar, geralmente coisas mais importantes.
@@ -18,7 +18,7 @@ Isso para que ela não se perca, porém ideia se perder não é algo ruim, você
 ### Porém quanto tempo você deve utilizar para repetir algo?
 A repetição espaçada está muito ligada a Flash Cards, estes são os melhores itens para separar um grande conteúdo em blocos menores, e também para revisar, aliás são pequenos.
 
-Colocando tudo o que você quer lembrar em [[Flash Cards]], junto com eles você pode intercalar o momento de revisão.
+Colocando tudo o que você quer lembrar em [Flash Cards](https://github.com/edumaciel10/digital-garden/blob/master/Flash%20Cards.md), junto com eles você pode intercalar o momento de revisão.
 
 Este deve variar conforme você estiver familiarizado com o card, se você estiver muito familiarizado a repetição deve ser mais tardia, questão de horas. Caso não esteja, a repetição deve ser mais breve, questão de minutos.
 
@@ -33,7 +33,7 @@ Você deve revisar tudo aquilo que deseja se lembrar futuramente, mas essa não 
 
 ## Escrever
 Embora não haja tantos estudos sobre, educadores relaram que escrever ajudam a codificar, ou melhor, converter em estruturas neurais de memória mais profundamente o que você está tentando memorizar. 
-Isso por que parece haver uma conexão direta entre sua mão e o cérebro. =( Escreva muito!! )
+Isso por que parece haver uma conexão direta entre sua mão e o cérebro. ( Escreva muito!! )
 
 ## Truques muito utilizados em assuntos que precisam ser decorados.
 Lembra quando você estudava Química e tinha a Tabela Periódica repleta de elementos?
@@ -46,6 +46,6 @@ Vários experimentos recentes com animais e humanos mostraram que fazer exercíc
 
 Por que memorizar e criar metáforas te ajudam a aprender algo novo mais rápido. Imagine que quanto mais você consegue transferir seus novos aprendizados para sua memória de longo prazo, mais fácil fica você fazer isso novamente, logo fica mais fácil aprender coisas novas. Além disso você consegue expandir o tamanho da sua memória de curto prazo.
 
-Fazer esse exercício de criar uma imagem, vincular ideias e criar [[Flash Cards]] ajuda a fortalecer sua criatividade, por que te abre portas para vincular novas ideias mais fácil. Imagine que você demorou 15 minutos para criar uma nova imagem de um assunto que você está estudando pela primeira vez, na próxima vez que você precisar utilizar esse assunto para aprender algo novo a partir dele, será muito mais fácil, pois você já pensou nele antes, e deixou alguns neurônios prontos para receberem ligações.
+Fazer esse exercício de criar uma imagem, vincular ideias e criar [Flash Cards](https://github.com/edumaciel10/digital-garden/blob/master/Flash%20Cards.md) ajuda a fortalecer sua criatividade, por que te abre portas para vincular novas ideias mais fácil. Imagine que você demorou 15 minutos para criar uma nova imagem de um assunto que você está estudando pela primeira vez, na próxima vez que você precisar utilizar esse assunto para aprender algo novo a partir dele, será muito mais fácil, pois você já pensou nele antes, e deixou alguns neurônios prontos para receberem ligações.
 
 Caso você alegue que não possua criativadade para criar algo novo, lembre-se que a mesma criatividade que você tinha aos dois anos de idade ainda está lá, só falta você conseguir acessá-la
