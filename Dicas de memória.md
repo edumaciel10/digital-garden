@@ -15,6 +15,13 @@ Para que isso aconteça, a ideia deve ser memorável, e ela deve ser repetida.
 
 Isso para que ela não se perca, porém ideia se perder não é algo ruim, você não quer se lembrar de tudo o que ocorre na sua vida, você quer selecionar daquilo que deseja se lembrar, geralmente coisas mais importantes.
 
+## Como funciona a memória dentro do cérebro
+Imagine que para chegar do ponto A ao ponto B você possar cortar caminho, como na imagem, a memória funciona como a marca dos passos das pessoas passando por ali todos os dias, de tanto elas pisarem cria-se um trilha. A repetição de passos na grama são as conexões neurais, então toda vez que você repete a informação que deseja lembrar você fortalece essas conexões até que ela seja de fato memorizada. 
+
+![img](https://www.htogroup.org/wp-content/uploads/2020/11/path-1.png)
+
+Porém existe uma forma de acerelar essa memorização, atráves da emoção. Quando a pessoa tem interesse no conteúdo a ser memorizado, a quantidade de passos para formar a trilha da imagem é menor. Isto acontece porque quando existe motivação para o aprendizado há um aumento neuroquímico no circuito de recompensa no cérebro. As pessoas tem detrimento por coisas que geram prazer para si mesmas. Então tente conectar o que você quer memorizar com conteúdos ou aplicações que te deixam feliz, se você for memorizar algo tente se recompensar sempre que acertar e não ser tão duro consigo mesmo nos momento de erro para que a frustação não torne o aprendizado de algo novo uma experiência ruim.
+
 ### Porém quanto tempo você deve utilizar para repetir algo?
 A repetição espaçada está muito ligada a Flash Cards, estes são os melhores itens para separar um grande conteúdo em blocos menores, e também para revisar, aliás são pequenos.
 
