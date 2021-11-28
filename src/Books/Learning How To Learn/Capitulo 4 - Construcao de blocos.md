@@ -36,9 +36,9 @@
 
 Isso acontece por que você força seu cérebro a buscar conexões mais profundas, e quando isso ocorre, fica mais fácil dele percorrer essas informações novamente.
 
-> Reler o material da apenas uma falsa sensação de aprendizado. E só é uma boa prática quando você da um tempo adequado para que ocorra a [[src/Books/Learning How To Learn/Repetição Espaçada]]
+> Reler o material da apenas uma falsa sensação de aprendizado. E só é uma boa prática quando você da um tempo adequado para que ocorra a [[Repeticao Espacada]]
 
-Temos duas memórias, a de [[src/Books/Learning How To Learn/memória de trabalho| trabalho]] e a de [[src/Books/Learning How To Learn/memória de longo prazo | longo prazo]], quando um bloco está sendo construído, é muito comum que sua memória de longo prazo fique muito ocupada, pois nela está sendo trabalhado todos os conceitos e informações necessários para você formar um bloco. Porém, quando seu bloco é construído toda a carga é retirada da sua memória de trabalho, e colocada na sua memória de longo prazo, deixando todo um espaço para o processamento de informações, e novas conexões com outros conteúdos.
+Temos duas memórias, a de [[memoria de trabalho| trabalho]] e a de [[memoria de longo prazo | longo prazo]], quando um bloco está sendo construído, é muito comum que sua memória de longo prazo fique muito ocupada, pois nela está sendo trabalhado todos os conceitos e informações necessários para você formar um bloco. Porém, quando seu bloco é construído toda a carga é retirada da sua memória de trabalho, e colocada na sua memória de longo prazo, deixando todo um espaço para o processamento de informações, e novas conexões com outros conteúdos.
 
 > Por este motivo é essencial que você não somente veja um exercício solucionado, mas sim que você tente solucioná-lo. Pois grande parte do conhecimento empregado na resolução do exercício ficara em sua memória de longo prazo, podendo ser reutilizado posteriormente
 

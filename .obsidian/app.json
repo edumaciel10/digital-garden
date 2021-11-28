@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "fileSortOrder": "byModifiedTimeReverse",
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -13,5 +13,7 @@
   "strictLineBreaks": true,
   "foldIndent": false,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "trashOption": "local"
 }

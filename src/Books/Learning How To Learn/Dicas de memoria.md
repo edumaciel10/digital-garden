@@ -10,7 +10,7 @@ Aprender a processar ideias visualmente em é uma forma de aprender rapidamente 
 	-  Tipo a forma com que o benzeno era visualizado por alguns cientistas, ![img](https://github.com/edumaciel10/digital-garden/blob/master/Images/Pasted%20image%2020211114192747.png)
 
 ## Repetição espaçada
-Você compreender como algo funciona não é o suficiente para aprender. Tudo o que você compreendeu vai sair da sua [[src/Books/Learning How To Learn/memória de trabalho]] se não for revisada, que nada mais é que o processo de [transferência](https://github.com/edumaciel10/digital-garden/blob/master/transfer%C3%AAncia.md).
+Você compreender como algo funciona não é o suficiente para aprender. Tudo o que você compreendeu vai sair da sua [[memoria de trabalho]] se não for revisada, que nada mais é que o processo de [transferência](https://github.com/edumaciel10/digital-garden/blob/master/transfer%C3%AAncia.md).
 Para que isso aconteça, a ideia deve ser memorável, e ela deve ser repetida.
 
 Isso para que ela não se perca, porém ideia se perder não é algo ruim, você não quer se lembrar de tudo o que ocorre na sua vida, você quer selecionar daquilo que deseja se lembrar, geralmente coisas mais importantes.

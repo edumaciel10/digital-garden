@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "8f8e77aced9da9cf",
+    "id": "3356a9a75c996732",
     "type": "split",
     "children": [
       {
-        "id": "8100cd30d9517718",
+        "id": "62b4790cabf07837",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dist/Books/Learning How To Learn/Building Blocks.md",
+            "file": "src/Books/Learning How To Learn/transferencia.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 503
   },
   "right": {
     "id": "d03bd18ea89a4bf0",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dist/Books/Learning How To Learn/Building Blocks.md",
+                "file": "src/Books/Learning How To Learn/transferencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dist/Books/Learning How To Learn/Building Blocks.md",
+                "file": "src/Books/Learning How To Learn/transferencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dist/Books/Learning How To Learn/Building Blocks.md"
+                "file": "src/Books/Learning How To Learn/transferencia.md"
               }
             }
           },
@@ -134,17 +134,17 @@
     "direction": "horizontal",
     "width": 418.35186767578125
   },
-  "active": "8100cd30d9517718",
+  "active": "62b4790cabf07837",
   "lastOpenFiles": [
-    "dist/Books/Learning How To Learn/Building Blocks.md",
-    "src/Books/Learning How To Learn/Building Blocks.md",
-    "src/Books/Learning How To Learn/Capítulo 6- Entendendo o hábito da procrastinação.md",
-    "src/Books/Learning How To Learn/transferência.md",
+    "src/Books/Learning How To Learn/transferencia.md",
+    "src/Books/Learning How To Learn/Aprendendo a aprender.md",
+    "src/Books/Learning How To Learn/Compreensao Intuitiva.md",
     "src/Books/Learning How To Learn/Capitulo 4 - Construção de blocos.md",
-    "src/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md",
-    "src/Books/Learning How To Learn/experiência e repetição.md",
-    "src/Books/Learning How To Learn/memória de trabalho.md",
-    "src/Books/Learning How To Learn/Repetição Espaçada.md",
-    "src/Books/Learning How To Learn/memória de longo prazo.md"
+    "src/Books/Learning How To Learn/Capitulo 5 - Evitando a procrastinacao.md",
+    "src/Books/Learning How To Learn/memoria de longo prazo.md",
+    "src/Books/Learning How To Learn/memoria de trabalho.md",
+    "src/Books/Learning How To Learn/transferência.md",
+    "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
+    "dist/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md"
   ]
 }
