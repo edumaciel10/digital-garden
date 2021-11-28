@@ -1,0 +1,21 @@
+{
+  "name": "digital-garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "prepare": "husky install",
+    "compile:github": "obsidian-export src dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edumaciel10/digital-garden.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edumaciel10/digital-garden/issues"
+  },
+  "homepage": "https://github.com/edumaciel10/digital-garden#readme"
+}
