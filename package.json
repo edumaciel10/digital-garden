@@ -6,7 +6,7 @@
   "pre-push": "compile:github",
   "scripts": {
     "prepare": "husky install",
-    "compile:github": "rm -R dist/* && obsidian-export src dist"
+    "compile:github": "rm -R -f dist/* && obsidian-export src dist"
   },
   "repository": {
     "type": "git",
