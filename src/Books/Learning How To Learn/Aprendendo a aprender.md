@@ -2,7 +2,7 @@ Aprendendo a aprender
 2021-08-29 23:24
 
 
-# [[Capitulo 4 - Construção de blocos]]
+# [[src/Books/Learning How To Learn/Capitulo 4 - Construção de blocos]]
 ## Resumo
 >A prática é essencial para construir fortes padrões neurais
 
@@ -34,7 +34,7 @@ Aprendendo a aprender
 3. Resolver novamente os exercícios apresentados em aula
 	1. Isso ajuda a forticar os blocos, pois fortalece ainda mais aquela compreensão básica sobre o bloco.
 
-[[Capitulo 5 - Evitando a procrastinação]]
+[[src/Books/Learning How To Learn/Capitulo 5 - Evitando a procrastinação]]
 
 #Memória #Ideias
 

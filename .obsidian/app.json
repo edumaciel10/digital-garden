@@ -7,5 +7,11 @@
     "margin": "0",
     "downscalePercent": 90
   },
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "autoPairBrackets": true,
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "foldIndent": false,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
