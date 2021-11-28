@@ -1,3 +1,2 @@
 {{TITLE}}
 {{date}}  {{time}}
-*Eduardo*

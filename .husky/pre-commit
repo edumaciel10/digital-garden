@@ -1,1 +1,1 @@
-obsidian-export ../src  ../dist
+npm run compile:github

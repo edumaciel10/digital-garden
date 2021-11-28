@@ -1,7 +1,7 @@
 Aprendendo a aprender
 2021-08-29 23:24
 
-# [src/Books/Learning How To Learn/Capitulo 4 - Construção de blocos](Capitulo%204%20-%20Constru%C3%A7%C3%A3o%20de%20blocos.md)
+# [Capitulo 4 - Construcao de blocos](Capitulo%204%20-%20Construcao%20de%20blocos.md)
 
 ## Resumo
 
@@ -40,6 +40,6 @@ Aprendendo a aprender
 1. Resolver novamente os exercícios apresentados em aula
    1. Isso ajuda a forticar os blocos, pois fortalece ainda mais aquela compreensão básica sobre o bloco.
 
-[src/Books/Learning How To Learn/Capitulo 5 - Evitando a procrastinação](Capitulo%205%20-%20Evitando%20a%20procrastina%C3%A7%C3%A3o.md)
+[Capitulo 5 - Evitando a procrastinacao](Capitulo%205%20-%20Evitando%20a%20procrastinacao.md)
 
 \#Memória #Ideias
