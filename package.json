@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/edumaciel10/digital-garden/issues"
   },
-  "homepage": "https://github.com/edumaciel10/digital-garden#readme"
+  "homepage": "https://github.com/edumaciel10/digital-garden#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
 }

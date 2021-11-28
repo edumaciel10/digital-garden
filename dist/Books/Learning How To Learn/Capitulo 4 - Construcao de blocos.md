@@ -37,7 +37,7 @@ A prática e a repetição focada são importantes para a construção de blocos
 * Porém para ver se uma ferramenta serve para seu problema é fácil, basta testar se encaixa no parafuso ou não.
 * No caso dos blocos mentais, é necessária a prática, aplicar os blocos algumas vezes para entender para o que ele serve vão te ajudar a identificar quando utilizá-lo, e também consolidar seus conhecimentos.
 * E quanto mais blocos você tiver, mais útil será a sua caixa de ferramentas.
-* Os blocos podem ser associados a outros blocos, e essa associação pode te ajudar a resolver novos problemas através de um fenômeno chamado de *src/Books/Learning How To Learn/transferência*.
+* Os blocos podem ser associados a outros blocos, e essa associação pode te ajudar a resolver novos problemas através de um fenômeno chamado de [transferencia](src/Books/Learning%20How%20To%20Learn/transferencia.md).
 
  > 
  > Tentar de recordar do que aprendeu é muito mais eficiente do que apenas reler o material.
@@ -47,7 +47,7 @@ Isso acontece por que você força seu cérebro a buscar conexões mais profunda
  > 
  > Reler o material da apenas uma falsa sensação de aprendizado. E só é uma boa prática quando você da um tempo adequado para que ocorra a [Repeticao Espacada](Repeticao%20Espacada.md)
 
-Temos duas memórias, a de [ trabalho](memoria%20de%20trabalho.md) e a de * longo prazo*, quando um bloco está sendo construído, é muito comum que sua memória de longo prazo fique muito ocupada, pois nela está sendo trabalhado todos os conceitos e informações necessários para você formar um bloco. Porém, quando seu bloco é construído toda a carga é retirada da sua memória de trabalho, e colocada na sua memória de longo prazo, deixando todo um espaço para o processamento de informações, e novas conexões com outros conteúdos.
+Temos duas memórias, a de [memoria de trabalho](src/Books/Learning%20How%20To%20Learn/memoria%20de%20trabalho.md) e a de [memoria de longo prazo |](src/Books/Learning%20How%20To%20Learn/memoria%20de%20longo%20prazo.md), quando um bloco está sendo construído, é muito comum que sua memória de longo prazo fique muito ocupada, pois nela está sendo trabalhado todos os conceitos e informações necessários para você formar um bloco. Porém, quando seu bloco é construído toda a carga é retirada da sua memória de trabalho, e colocada na sua memória de longo prazo, deixando todo um espaço para o processamento de informações, e novas conexões com outros conteúdos.
 
  > 
  > Por este motivo é essencial que você não somente veja um exercício solucionado, mas sim que você tente solucioná-lo. Pois grande parte do conhecimento empregado na resolução do exercício ficara em sua memória de longo prazo, podendo ser reutilizado posteriormente
@@ -59,7 +59,7 @@ Além disso conforme você vai criando blocos, maior seus blocos antigos serão,
  > Ao construir uma biblioteca de blocos você estará treinando seu cérebro para ser um bom reconhcedor de padrões, e facilmente conseguirá resolver qualquer que seja o problema.
 
  > 
- > Quando se possui uma grande biblioteca mental utilizar o [src/Books/Learning How To Learn/modo difuso](modo%20difuso.md)  é uma prática muito boa para criar conexões entre blocos e resolver problemas, pois ele vai conseguir reutilizar todo o conhecimento adquirido no seu [src/Books/Learning How To Learn/modo focado](modo%20focado.md) e com isso criar soluções intuitivas.
+ > Quando se possui uma grande biblioteca mental utilizar o [modo difuso](src/Books/Learning%20How%20To%20Learn/modo%20difuso.md)  é uma prática muito boa para criar conexões entre blocos e resolver problemas, pois ele vai conseguir reutilizar todo o conhecimento adquirido no seu [modo focado](src/Books/Learning%20How%20To%20Learn/modo%20focado.md) e com isso criar soluções intuitivas.
 
 Uma boa prática quando não se entende algum conceito, é ver como o criador do conteúdo chegou naquele resultado, pois com isso você entenderá o motivo daquele conceito ser empregado, tornando-o mais intuitivo.
 
@@ -93,4 +93,4 @@ Isso força o cérebro a saber quando e como utilizar diversas técnicas para a 
 
 ## Dividir uma grande sessão de estudo, em outras pequenas.
 
-Para assim intercalar os conteúdos aprendidos, em uma sessão você estuda X, em outra Y, em outra Z. Para fazer isso o [src/Books/Learning How To Learn/pomodoro](pomodoro.md) pode ser um bom aliado.
+Para assim intercalar os conteúdos aprendidos, em uma sessão você estuda X, em outra Y, em outra Z. Para fazer isso o [pomodoro](src/Books/Learning%20How%20To%20Learn/pomodoro.md) pode ser um bom aliado.

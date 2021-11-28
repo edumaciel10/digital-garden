@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/Books/Learning How To Learn/transferencia.md",
+            "file": "src/Skin in the game.md",
             "mode": "source"
           }
         }
@@ -39,9 +39,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3",
-                "matchingCase": true,
-                "explainSearch": true,
+                "query": "chapter",
+                "matchingCase": false,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Books/Learning How To Learn/transferencia.md",
+                "file": "src/Skin in the game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Books/Learning How To Learn/transferencia.md",
+                "file": "src/Skin in the game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Books/Learning How To Learn/transferencia.md"
+                "file": "src/Skin in the game.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "62b4790cabf07837",
   "lastOpenFiles": [
-    "src/Books/Learning How To Learn/transferencia.md",
-    "src/Books/Learning How To Learn/Aprendendo a aprender.md",
-    "src/Books/Learning How To Learn/Compreensao Intuitiva.md",
-    "src/Books/Learning How To Learn/Capitulo 4 - Construção de blocos.md",
-    "src/Books/Learning How To Learn/Capitulo 5 - Evitando a procrastinacao.md",
-    "src/Books/Learning How To Learn/memoria de longo prazo.md",
-    "src/Books/Learning How To Learn/memoria de trabalho.md",
-    "src/Books/Learning How To Learn/transferência.md",
+    "src/Skin in the game.md",
+    "src/Books/Skin in the game - Chapter 1.md",
+    "dist/Skin in the game.md",
+    "dist/Books/Learning How To Learn/Skin in the game - Chapter 1.md",
+    "dist/Books/Skin in the game - Chapter 1.md",
+    "src/Templates/Template1.md",
+    "src/Sem título 1.md",
     "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
-    "dist/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md"
+    "src/Books/Learning How To Learn/memoria de longo prazo.md",
+    "src/Books/Learning How To Learn/transferencia.md"
   ]
 }
