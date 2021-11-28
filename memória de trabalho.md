@@ -1,1 +1,0 @@
-**DEF**: memória responsável por processar todas as informações nas quais você está trabalho naquele momento, semelhante à uma memória RAM.

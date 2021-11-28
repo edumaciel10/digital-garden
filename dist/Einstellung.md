@@ -1,0 +1,2 @@
+**Def**: É o conceito de você ficar tão focado em um único problema que não consegue enxergar outra solução.
+Exemplo: Você pensar em somente uma jogada de xadrez, visualizando todas as condições para sua vitória, mas não conseguindo pensar amplamente em outras variações

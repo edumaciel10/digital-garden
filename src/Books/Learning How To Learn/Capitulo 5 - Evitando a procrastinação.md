@@ -10,7 +10,7 @@ Algumas imagens do cérebro revelou que quando as pessoas começam a pensar que 
 1. Você sente um desconforto ao se lembrar que deve fazer algo, como estudar matemática, acaba se torturando antecipadamente.
 2. Desvia sua atenção para encontrar algo mais satisfatório para fazer.
 3. Você se sente feliz e nem percebe que um bom tempo para estudar já se passou.
-4. Isso se repete várias e várias vezes e se torna um [[vício]]
+4. Isso se repete várias e várias vezes e se torna um [[src/Books/Learning How To Learn/vício]]
 
 ### Efeitos da procrastinação na sua vida.
 O procrastinador é mais estressado, tem notas menores e por fim tem uma saúde pior.
