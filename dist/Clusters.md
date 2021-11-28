@@ -1,1 +1,0 @@
-DEF: Clusters no Node.js podem ser utilizado para suprir o fato de dele ser em um thread única, isto é, clusterizar thread em node.js permite criar processos filhos que compartilham a porta do servidor, e com isso aguentar grandes requests.

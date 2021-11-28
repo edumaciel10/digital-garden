@@ -1,6 +1,0 @@
-Uma dica para encontrar a solução para problemas complexos e que já demandaram um bom tempo focado, é "desligar" seu cérebro por um momento, para que você possa ter uma visão ampla de tudo o que está acontecendo, e deixar com que seu cérebro encontre a solução por você.
-
-Isso implica que quanto mais você tentar fazer algo criativo, menos criativo irá ser, pois você precisa deixar seu cérebro conectar essa ideia atual com as outras ideias que você tem, e o modo difuso é essencial para isso. O zettelkasten pode auxiliar também, pois ele nada mais é que todas as suas ideias condensadas em um único lugar.
-
-Beleza, mas como surgiu esse modo focado e difuso?
-Vem desde o surgimento dos vertebrados. Imagine que você é um passarinho e precisa comer em segurança, então ao mesmo tempo que você precisa focar naquilo que está comendo, precisa analisar possíveis predadores, mas esse comportamento acabou gerando um novo padrão cerebal, onde o lado direito do cérebro é mais difuso, tem uma visão mais ampla de tudo o que está acontecendo. E o lado esquerdo é mais focado, e consegue centralizar seu pensamento em uma única ação.
