@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
-  "pre-push": "compile:github",
   "scripts": {
     "prepare": "husky install",
-    "compile:github": "rm -R -f dist/* && obsidian-export src dist"
+    "compile:github": "echo running compile github && echo rm -R -f dist/* && obsidian-export src dist"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,6 @@
   },
   "homepage": "https://github.com/edumaciel10/digital-garden#readme",
   "devDependencies": {
-    "husky": "^7.0.4"
+    "husky": "^7.0.0"
   }
 }
