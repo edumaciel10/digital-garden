@@ -1,0 +1,1 @@
+**Def**: É a ideia de ter as coisas prontas para fazer outras coisas. O quão fácil é para o Facebook criar outra rede social? Eles já tem tudo, realtime, marketing, pessoas, tudo mais. Então é a ideia de ter os tijolos para construir coisas novas.

@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
+  "pre-push": "compile:github",
   "scripts": {
     "prepare": "husky install",
-    "compile:github": "obsidian-export src dist"
+    "compile:github": "rm -R dist/* && obsidian-export src dist"
   },
   "repository": {
     "type": "git",
