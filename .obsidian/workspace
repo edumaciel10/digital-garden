@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/Skin in the game.md",
+            "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0fb0691d4c46a55a"
+      },
+      {
+        "id": "fd76fbcd53fde605",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0fb0691d4c46a55a"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chapter",
+                "query": "memória muscular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Skin in the game.md",
+                "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Skin in the game.md",
+                "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Skin in the game.md"
+                "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md"
               }
             }
           },
@@ -128,7 +141,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,15 +150,15 @@
   },
   "active": "62b4790cabf07837",
   "lastOpenFiles": [
+    "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
+    "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
+    "src/Books/Learning How To Learn/Repeticao Espacada.md",
+    "src/Books/Learning How To Learn/Dicas de memoria.md",
     "src/Skin in the game.md",
     "src/Books/Skin in the game - Chapter 1.md",
     "dist/Skin in the game.md",
     "dist/Books/Learning How To Learn/Skin in the game - Chapter 1.md",
     "dist/Books/Skin in the game - Chapter 1.md",
-    "src/Templates/Template1.md",
-    "src/Sem título 1.md",
-    "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
-    "src/Books/Learning How To Learn/memoria de longo prazo.md",
-    "src/Books/Learning How To Learn/transferencia.md"
+    "src/Templates/Template1.md"
   ]
 }
