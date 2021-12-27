@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "62b4790cabf07837",
+        "id": "cab649313dc7cafc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
-            "mode": "source"
+            "file": "src/Programming/Computing/Paradigmas de Programação.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "0fb0691d4c46a55a"
+        }
       },
       {
-        "id": "fd76fbcd53fde605",
+        "id": "a9d4dec52480e1e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
-            "mode": "preview"
+            "file": "src/Programming/Computing/Recursividade.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "0fb0691d4c46a55a"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503
+    "width": 354
   },
   "right": {
     "id": "d03bd18ea89a4bf0",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
+                "file": "src/Programming/Computing/Recursividade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
+                "file": "src/Programming/Computing/Recursividade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md"
+                "file": "src/Programming/Computing/Recursividade.md"
               }
             }
           },
@@ -146,19 +146,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.35186767578125
+    "width": 418.35186767578125,
+    "collapsed": true
   },
-  "active": "62b4790cabf07837",
+  "active": "a9d4dec52480e1e4",
   "lastOpenFiles": [
-    "src/Books/Learning How To Learn/Capitulo 12 - Apreciando seu talento.md",
-    "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
-    "src/Books/Learning How To Learn/Repeticao Espacada.md",
-    "src/Books/Learning How To Learn/Dicas de memoria.md",
-    "src/Skin in the game.md",
-    "src/Books/Skin in the game - Chapter 1.md",
-    "dist/Skin in the game.md",
-    "dist/Books/Learning How To Learn/Skin in the game - Chapter 1.md",
-    "dist/Books/Skin in the game - Chapter 1.md",
-    "src/Templates/Template1.md"
+    "src/Programming/Computing/Recursividade.md",
+    "src/Programming/Computing/Paradigmas de Programação.md",
+    "src/Programming/Computing/Inducao.md",
+    "Recording 20211226172326.webm",
+    "src/Polyfill.md",
+    "src/Sem título.md",
+    "src/Bill Gates.md",
+    "src/Ideias.md",
+    "src/Burocracia.md",
+    "202112261720.md"
   ]
 }

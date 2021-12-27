@@ -1,5 +1,5 @@
 {
-  "promptDelete": true,
+  "promptDelete": false,
   "fileSortOrder": "byModifiedTimeReverse",
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -15,5 +15,11 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "pt-BR"
+  ],
+  "tabSize": 5
 }
