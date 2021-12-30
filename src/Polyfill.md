@@ -1,4 +1,4 @@
-O que são [[Polyfills]] 
+O que são [[Polyfills]]
 
 Sabe quando você quer encaixar algo na tomada mas precisa de adaptador? Então, as tomadas são as variedades de tecnologias ou browsers que implementam a sua forma de tomada e o adaptador ou o polyfill é a maneira de se ajustar a todas elas.
 

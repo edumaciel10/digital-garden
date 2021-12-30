@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Programming/Computing/Recursividade.md",
+                "file": "src/Programming/Computing/Paradigmas de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Programming/Computing/Recursividade.md",
+                "file": "src/Programming/Computing/Paradigmas de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/Programming/Computing/Recursividade.md"
+                "file": "src/Programming/Computing/Paradigmas de Programação.md"
               }
             }
           },
@@ -149,10 +149,10 @@
     "width": 418.35186767578125,
     "collapsed": true
   },
-  "active": "a9d4dec52480e1e4",
+  "active": "cab649313dc7cafc",
   "lastOpenFiles": [
-    "src/Programming/Computing/Recursividade.md",
     "src/Programming/Computing/Paradigmas de Programação.md",
+    "src/Programming/Computing/Recursividade.md",
     "src/Programming/Computing/Inducao.md",
     "Recording 20211226172326.webm",
     "src/Polyfill.md",

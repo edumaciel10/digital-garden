@@ -1,0 +1,3 @@
+# O que é pensar de forma indutiva?
+
+É tentar manter a semântica do seu código, mante o contexto. É não deixar com que aquele pensamento indutivo se quebre, utilizando `goto`, `break` e etc...
