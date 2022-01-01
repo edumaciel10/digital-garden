@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc0862455709b9e",
+        "id": "7719ab098bebb4d3",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memória muscular",
+                "query": "foc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,20 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.35186767578125,
-    "collapsed": true
+    "width": 100
   },
-  "active": "9dc0862455709b9e",
+  "active": "7719ab098bebb4d3",
   "lastOpenFiles": [
-    "src/Programming/Computing/Tentativa_e_erro.md",
-    "src/Programming/Computing/Paradigmas de Programação.md",
-    "src/Programming/Computing/Recursividade.md",
-    "src/Programming/Computing/Inducao.md",
-    "Recording 20211226172326.webm",
-    "src/Polyfill.md",
-    "src/Sem título.md",
-    "src/Bill Gates.md",
-    "src/Ideias.md",
-    "src/Burocracia.md"
+    "src/Books/Atomic Habits/1 - Fundamentals.md",
+    "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
+    "src/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md",
+    "src/Books/Atomic Habits/Concepts/Plateau of Latent Potencial.md",
+    "dist/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
+    "src/Clusters.md",
+    "dist/Clusters.md",
+    "src/Books/Learning How To Learn/Dicas de memoria.md",
+    "dist/Books/Learning How To Learn/Dicas de memoria.md",
+    "dist/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md"
   ]
 }
