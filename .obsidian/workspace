@@ -7,8 +7,12 @@
         "id": "7719ab098bebb4d3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "src/Books/Atomic Habits/1 - Fundamentals.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/Books/Atomic Habits/1 - Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "src/Books/Atomic Habits/1 - Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "src/Books/Atomic Habits/1 - Fundamentals.md"
+              }
             }
           },
           {
@@ -132,6 +139,7 @@
   "active": "7719ab098bebb4d3",
   "lastOpenFiles": [
     "src/Books/Atomic Habits/1 - Fundamentals.md",
+    "src/Books/Atomic Habits/Concepts/Aggregation of marginal gains.md",
     "src/Books/Learning How To Learn/Capitulo 4 - Construcao de blocos.md",
     "src/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md",
     "src/Books/Atomic Habits/Concepts/Plateau of Latent Potencial.md",
@@ -139,7 +147,6 @@
     "src/Clusters.md",
     "dist/Clusters.md",
     "src/Books/Learning How To Learn/Dicas de memoria.md",
-    "dist/Books/Learning How To Learn/Dicas de memoria.md",
-    "dist/Books/Learning How To Learn/Capítulo 1 - Abra a porta.md"
+    "dist/Books/Learning How To Learn/Dicas de memoria.md"
   ]
 }
