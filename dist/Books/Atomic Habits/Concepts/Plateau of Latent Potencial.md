@@ -2,5 +2,5 @@
 
 Com isso a gente pode pensar que os hábitos não são uma função constante, mas sim exponencial, onde terá um momento que ocorrerá o boom, mas que não será repentino, já que você trabalhou para aquilo.
 ![](Pasted%20image%2020220101164856.png)
-**Refs**
+## Refs
 https://crossfit26.com/plateau-of-latent-potential/
