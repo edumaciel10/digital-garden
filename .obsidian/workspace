@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cab649313dc7cafc",
+        "id": "9dc0862455709b9e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "src/Programming/Computing/Paradigmas de Programação.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a9d4dec52480e1e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "src/Programming/Computing/Recursividade.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Programming/Computing/Paradigmas de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/Programming/Computing/Paradigmas de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "src/Programming/Computing/Paradigmas de Programação.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,8 +129,9 @@
     "width": 418.35186767578125,
     "collapsed": true
   },
-  "active": "cab649313dc7cafc",
+  "active": "9dc0862455709b9e",
   "lastOpenFiles": [
+    "src/Programming/Computing/Tentativa_e_erro.md",
     "src/Programming/Computing/Paradigmas de Programação.md",
     "src/Programming/Computing/Recursividade.md",
     "src/Programming/Computing/Inducao.md",
@@ -159,7 +140,6 @@
     "src/Sem título.md",
     "src/Bill Gates.md",
     "src/Ideias.md",
-    "src/Burocracia.md",
-    "202112261720.md"
+    "src/Burocracia.md"
   ]
 }
